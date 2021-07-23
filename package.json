@@ -1,5 +1,9 @@
 {
 	"name": "fcc-learn-npm-package-json",
+  "author": "Mahamat Legrand",
+  "description": "A description of your app",
+  "keywords": ["freecodecamp", "npm", "node", "package", "manager"],
+  "license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
